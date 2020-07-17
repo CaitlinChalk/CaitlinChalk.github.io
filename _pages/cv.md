@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Fluid Dynamics, University of Leeds, 2015 - 2019
+* MMath Mathematics, University of Exeter, 2011 - 2015
 
-Work experience
+
+Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* EPSRC Doctoral Prize Research Fellowship 2019–2021
+  * Univesity of Leeds
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -54,6 +48,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
