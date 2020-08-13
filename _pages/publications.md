@@ -17,5 +17,11 @@ Stability of two-layer miscible convection. *Physical Review Fluids*, 4(10), 103
 
 **Wilczynski, F.**, Hughes, D. W., Van Loo, S., Arter, W., & Militello, F. (2019). 
 Stability of scrape-off layer plasma: A modified Rayleigh–Bénard problem. *Physics of Plasmas*, 26(2), 022510.
-[DOI](http://eprints.whiterose.ac.uk/144083/)
-[Whiterose](https://doi.org/10.1063/1.5064765)
+[DOI](https://doi.org/10.1063/1.5064765)
+[Whiterose](http://eprints.whiterose.ac.uk/144083/)
+
+
+## PhD Thesis
+
+Wilczynski, Fryderyk (2019) *Convective motions in the scrape-off layer of magnetically confined plasmas*. PhD thesis, University of Leeds.
+[Whiterose](http://etheses.whiterose.ac.uk/26031/)
