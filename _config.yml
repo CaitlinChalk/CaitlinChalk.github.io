@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr"
+title                    : "Caitlin Chalk"
 title_separator          : "-"
 name                     : &name "Caitlin Chalk"
 description              : &description "Data Scientist exploring transport sustainability. Researcher of Fluid Dynamics."
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "ChalkCaitlin"
   vine             :
   weibo            :
   xing             :
